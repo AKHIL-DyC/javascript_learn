@@ -15,3 +15,9 @@ console.log(name[2])//prints the 2 index of string similar to as of array
 const string="github is cool"
 const word ="github"
 console.log(string.includes(word))
+
+//to change a string into a integer 
+let amount="1000"
+console.log(typeof amount)//we get type as string
+amount=Number.parseInt(amount)
+console.log(typeof amount)//we get the type as number
