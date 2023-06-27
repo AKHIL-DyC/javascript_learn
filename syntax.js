@@ -6,9 +6,9 @@ parameters here are local variables
 
 
 syntax of a string
-let string_name ="akhil"
-or string_name ='akhil'
-or string_name = `akhil ${previously_defined_things}`temprol literate
+let string-name ="akhil"
+or string-name ='akhil'
+or string-name = `akhil ${previously_defined_things}`temprol literate
 \r,\t,\' are called escape sequence
 
 syntax of object
