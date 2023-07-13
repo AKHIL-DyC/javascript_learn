@@ -3,6 +3,7 @@ const marks ={
     akhil:66,
     subha:99,
 }
+console.table(marks)//puts objects in a table
 console.log(Object.keys(marks))//Object.keys(objname) makes the object into an array
 console.log(Object.keys(marks).length)//arrayname.length gives the length of the array
 console.log(Object.keys(marks)[1])//arrayname[elementnumber]
@@ -19,3 +20,4 @@ for(let i in marks){
     //console.log(i)
     console.log("the marks of "+i +" is "+marks[i])
 }
+
