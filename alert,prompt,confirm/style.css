@@ -1,0 +1,12 @@
+* {
+    margin: 150;
+    padding: 150;
+    box-sizing: border-box;
+  }
+  
+  /* Set a classy font */
+  body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    background-color: aquamarine;
+  }
+  
