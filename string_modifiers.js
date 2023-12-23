@@ -21,3 +21,6 @@ let amount="1000"
 console.log(typeof amount)//we get type as string
 amount=Number.parseInt(amount)
 console.log(typeof amount)//we get the type as number
+str1="dasd  "
+str1.trim()
+console.log("a"+str1+"b")
